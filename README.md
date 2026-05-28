@@ -41,6 +41,7 @@ The Telecom Customer Churn Analytics Dashboard provides insights into customer c
 📷 Dashboard Screenshot
 
 ![Dashboard Screenshot1](Assets/Telecom_Dashboard.png)
+Dashboard Video See On Linkd IN :-https://www.linkedin.com/posts/uday-kakad-045976322_tableau-dataanalytics-customerchurn-activity-7465403893594652672-0wDK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFGoK7UBdOtGb27rS8_rCE-uogb9uftbs7A
  
 📈 Key Insights
 
